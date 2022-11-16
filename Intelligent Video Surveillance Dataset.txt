@@ -1,0 +1,2 @@
+https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
+https://www.svcl.ucsd.edu/projects/anomaly/dataset.html
